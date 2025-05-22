@@ -79,6 +79,6 @@ side = "BOTH"
 [[dependencies.ftbxmodcompat]]
 modId = "luckperms"
 mandatory = false
-versionRange = "[5.4.83,)"
-ordering = "AFTER"
+versionRange = "[5.4.83,5.4.103)"
+ordering = "BEFORE"
 side = "SERVER"
